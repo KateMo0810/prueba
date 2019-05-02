@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 sdf}sadf
 sad
 fsd
 ghlk
 
 sdf
+=======
+hola mundo
+>>>>>>> eb21f334e440bd3e8ede9bcb4744154b76e722f9
